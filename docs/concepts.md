@@ -16,9 +16,11 @@ This document outlines common concepts in the `Condenser` mental model.
       - [Raw Token](#raw-token)
       - [Entity Token](#entity-token)
       - [Intentity Token](#intentity-token)
+      - [Null Token](#null-token)
       - [Higher-order Token](#higher-order-token)
-    - [Sources](#sources)
-      - [Actors](#actors)
+    - [Actors](#actors)
+      - [Discrete Actors](#discrete-actors)
+      - [Continuous Actors](#continuous-actors)
     - [Condenser](#condenser)
     - [Transformer](#transformer)
     - [Parser](#parser)
@@ -27,9 +29,13 @@ This document outlines common concepts in the `Condenser` mental model.
 
 Condenser is a mental model, API description language, and framework for scaffolding natural language understanding (NLU) experiences. Applications of the condenser framework are geared towards command and query scenarios, wehere the user of an application built with condenser wants to expedite a specific action with their voice. Context is critical when designing human-machine interfaces, thus the condenser mental model is designed to be domain-oriented in nature.
 
+Before we dive into each concept, please look over this mind map to see how these concepts are related to one another.
+
+![Condenser Concepts](./diagrams/out/concept-mind-map/concepts.png)
+
 ## Universe
 
-The universe of discourse
+In the context of condenser, the universe is the source of truth for
 
 ### Domain
 
@@ -53,11 +59,15 @@ The universe of discourse
 
 #### Intentity Token
 
+#### Null Token
+
 #### Higher-order Token
 
-### Sources
+### Actors
 
-#### Actors
+#### Discrete Actors
+
+#### Continuous Actors
 
 ### Condenser
 
