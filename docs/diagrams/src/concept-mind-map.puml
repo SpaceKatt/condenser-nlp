@@ -1,0 +1,29 @@
+@startmindmap concepts
+* Universe
+
+** Domain
+
+*** Domain Entity
+**** Domain Entity Resolver
+
+*** Domain State
+
+*** Domain Event
+**** Domain Event Parser
+
+** Reality Engine
+
+*** Higer-order Token
+**** Null Token
+**** Raw Token
+**** Entity Token
+**** Intentity Token
+
+*** Actor
+**** Discrete Actor
+**** Continuous Actor
+
+*** Condenser
+*** Transformer
+*** Parser
+@endmindmap
