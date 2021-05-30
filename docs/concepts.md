@@ -27,7 +27,7 @@ This document outlines common concepts in the `Condenser` mental model.
 
 ## Background
 
-Condenser is a mental model, API description language, and framework for scaffolding natural language understanding (NLU) experiences. Applications of the condenser framework are geared towards command and query scenarios, wehere the user of an application built with condenser wants to expedite a specific action with their voice. Context is critical when designing human-machine interfaces, thus the condenser mental model is designed to be domain-oriented in nature.
+Condenser is a mental model, API description language, and framework for scaffolding natural language understanding (NLU) experiences. The condenser framework is geared towards command and query scenarios where a user wants to expedite specific actions with their voice. Context is critical when designing human-machine interfaces, thus the condenser mental model is designed to be domain-oriented in nature.
 
 Before we dive into each concept, please look over this mind map to see how these concepts are related to one another.
 

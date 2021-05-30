@@ -16,6 +16,8 @@
 *** Higer-order Token
 **** Null Token
 **** Raw Token
+***** String Token
+***** Scalar Token
 **** Entity Token
 ***** Domain Entity Token
 ***** Common Entity Token
